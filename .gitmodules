@@ -1,0 +1,3 @@
+[submodule "bright-star-api"]
+	path = bright-star-api
+	url = https://github.com/h99sub/directsalesmarketingsistem.git
